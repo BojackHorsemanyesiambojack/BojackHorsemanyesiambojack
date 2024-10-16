@@ -22,6 +22,9 @@ i'm very skilled in technologies like SQL, ASP.NET and Vite with React and types
 SignLink is a web and mobile app project aimed to facilitate comunication among blind individuals and those with communication dificulties.
 this project currently uses technologies such as: TypeScript, React Native (for mobile), C# (ASP.NET CORE), POSTGRESQL, Vite with React (for web) and Python (for IA and machine learning).
 
+##### Aertask:
+a real-time platform for task and project management, focusing on productivity and team collaboration, Frontend built using Vite, React and TypeScript. Also integrated an API built with ASP.NET and Entity Framework.
+
 #### WorldPRGStudios (Local development team)
 WorldPRGStudios is a small team of students dedicated to creating websites for growing businesses. In this team, my primary role has been as a frontend developer, though I have also contributed to backend tasks on occasion.
 
