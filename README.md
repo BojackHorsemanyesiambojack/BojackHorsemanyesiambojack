@@ -5,9 +5,6 @@
 ## About Me
 I'm a self-taught software engineer with a diverse skill set and a passion for developing innovative solutions. Over the years, I have worked on a range of projects, each challenging me to grow and adapt to new technologies and methodologies.
 
-
-<code>You can see my portfolio in the following link: https://bojackhorsemanyesiambojack.github.io/My-portafolium/#about-me</code> [INCOMPLETE]
-
 ## Experience
 
 ### Full-Stack Projects
